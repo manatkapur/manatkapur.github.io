@@ -1,0 +1,104 @@
+<manifest alg="2" build="314" opt="false" iceEnabled="true">
+  <folder name="css">
+    <file name="site_global.css" crc="417434784"/>
+    <file name="index.css" crc="3941031746" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3865766194" ref="index"/>
+    <file name="jquery.tobrowserwidth.js" crc="3842421675" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="291134478" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3937082470" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3788803530" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4068933136" ref="index"/>
+    <file name="webpro.js" crc="3903299128" ref="index"/>
+    <file name="musewpslideshow.js" crc="138381373" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4250894771" ref="index"/>
+    <file name="touchswipe.js" crc="4156838003" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="lewis hine - bibb mill no. 1. many youngsters here. some boys were so small they had to climb up on the spinning frame to mend the broken threads and put back the empty bobbins. macon, georgia, 1909.jpg" crc="188470166" ref="index"/>
+    <file name="u194-4.png" crc="4019884368" ref="index"/>
+    <file name="down-arrow.png" crc="4002782924" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u289.png" crc="4114528008" ref="index"/>
+    <file name="u289-a.png" crc="4021682161" ref="index"/>
+    <file name="u280.png" crc="3843728896" ref="index"/>
+    <file name="u280-a.png" crc="4008970815" ref="index"/>
+    <file name="u296.png" crc="45385985" ref="index"/>
+    <file name="u296-a.png" crc="3928217561" ref="index"/>
+    <file name="u273.png" crc="4213381606" ref="index"/>
+    <file name="u273-a.png" crc="3952979813" ref="index"/>
+    <file name="u179-4.png" crc="292907495" ref="index"/>
+    <file name="u98-17.png" crc="4123778325" ref="index"/>
+    <file name="u131-6.png" crc="4229093419" ref="index"/>
+    <file name="u133-6.png" crc="265935816" ref="index"/>
+    <file name="u137-4.png" crc="292972896" ref="index"/>
+    <file name="u139-7.png" crc="487944264" ref="index"/>
+    <file name="u160-4.png" crc="333294388" ref="index"/>
+    <file name="u162-4.png" crc="518564372" ref="index"/>
+    <file name="u165-4.png" crc="235094682" ref="index"/>
+    <file name="u183-4.png" crc="3952670071" ref="index"/>
+    <file name="u186-16.png" crc="236341192" ref="index"/>
+    <file name="u499-4.png" crc="3937682370" ref="index"/>
+    <file name="u498-4.png" crc="250287041" ref="index"/>
+    <file name="u505-4.png" crc="3766482228" ref="index"/>
+    <file name="u504-4.png" crc="463723726" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u433-4.png" crc="205549978" ref="index"/>
+    <file name="u96-11.png" crc="3793909684" ref="index"/>
+    <file name="36657_130059680361934_8050132_n-u109-fr.jpg" crc="4156523558" ref="index"/>
+    <file name="404390_330987913602442_572230130_n-u121-fr.jpg" crc="3877374094" ref="index"/>
+    <file name="u497-6.png" crc="3825072296" ref="index"/>
+    <file name="untitled-1-05-u446-fr.jpg" crc="4055054276" ref="index"/>
+    <file name="untitled-1-05-u446-a-fr.png" crc="25469628" ref="index"/>
+    <file name="untitled-1-01-u648-fr.jpg" crc="4039976158" ref="index"/>
+    <file name="untitled-1-01-u648-a-fr.png" crc="4243983063" ref="index"/>
+    <file name="woollen blankets-u700-fr.jpg" crc="4040212064" ref="index"/>
+    <file name="woollen blankets-u700-a-fr.png" crc="4159331260" ref="index"/>
+    <file name="jaquard-u702-fr.jpg" crc="4292255370" ref="index"/>
+    <file name="untitled-1-04-u702-a-fr.png" crc="4050356134" ref="index"/>
+    <file name="mmelton-2-u704-fr.jpg" crc="4203719643" ref="index"/>
+    <file name="mmelton-2-u704-a-fr.png" crc="3822516524" ref="index"/>
+    <file name="untitled-1-03-u706-fr.jpg" crc="411623460" ref="index"/>
+    <file name="untitled-1-06-u708-fr.jpg" crc="3848402726" ref="index"/>
+    <file name="untitled-1-06-u708-a-fr.png" crc="4236698075" ref="index"/>
+    <file name="baiacstmcnajp22-2_1-u710-fr.jpg" crc="43826490" ref="index"/>
+    <file name="baiacstmcnajp22-2_1-u710-a-fr.png" crc="3920513546" ref="index"/>
+    <file name="u1435-4.png" crc="94466170" ref="index"/>
+    <file name="tweed (1).jpg" crc="24850477" ref="index"/>
+    <file name="tweed.jpg" crc="4101650483" ref="index"/>
+    <file name="zoom-02.jpg" crc="4010003534" ref="index"/>
+    <file name="u1454-4.png" crc="197109049" ref="index"/>
+    <file name="blazer.jpg" crc="4279810640" ref="index"/>
+    <file name="zoom-01.jpg" crc="3803060512" ref="index"/>
+    <file name="u714-4.png" crc="127085091" ref="index"/>
+    <file name="u1465-4.png" crc="16161622" ref="index"/>
+    <file name="woollen blankets2.jpg" crc="4054083014" ref="index"/>
+    <file name="woollen blankets3.jpg" crc="371734491" ref="index"/>
+    <file name="u764-4.png" crc="4262787517" ref="index"/>
+    <file name="u1461-4.png" crc="57257246" ref="index"/>
+    <file name="jaquard351x262.jpg" crc="422713352" ref="index"/>
+    <file name="zoom-04.jpg" crc="4273401134" ref="index"/>
+    <file name="u881-5.png" crc="3902119294" ref="index"/>
+    <file name="u1462-4.png" crc="3970363891" ref="index"/>
+    <file name="mmelton-2267x324.jpg" crc="4009114135" ref="index"/>
+    <file name="u948-4.png" crc="386039122" ref="index"/>
+    <file name="u1463-4.png" crc="3951737755" ref="index"/>
+    <file name="herringbone tweed.jpg" crc="3772415674" ref="index"/>
+    <file name="zoom-03.jpg" crc="4033612790" ref="index"/>
+    <file name="u1127-4.png" crc="429343134" ref="index"/>
+    <file name="u1466-4.png" crc="3905413421" ref="index"/>
+    <file name="wollen fabric.jpg" crc="476137548" ref="index"/>
+    <file name="zoom-05.jpg" crc="4111585612" ref="index"/>
+    <file name="u1208-4.png" crc="429343134" ref="index"/>
+    <file name="u1471-4.png" crc="204084126" ref="index"/>
+    <file name="baiacstmcnajp22-2_1.jpg" crc="3898711812" ref="index"/>
+    <file name="1385305942_569480486_2-woolen-stoles-in-fine-wool-gurgaon.jpg" crc="4106204957" ref="index"/>
+    <file name="baiacstmcnajp20-2_1.jpg" crc="325096798" ref="index"/>
+    <file name="u1255-4.png" crc="429343134" ref="index"/>
+    <file name="logo.png" crc="3816483409" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4287749948" mt="1397737789610" redirect="true"/>
+</manifest>
